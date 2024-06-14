@@ -11,7 +11,7 @@ LeaderIcons/ZogIofAlbania
   orig: 182, 276
   offset: 0, 0
   index: -1
-NationIcons/AlbanianEmpire
+NationIcons/UnitedX.png
   rotate: false
   xy: 4, 736
   size: 951, 1023
