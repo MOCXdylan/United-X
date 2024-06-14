@@ -1,0 +1,83 @@
+
+game.png
+size: 1024, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/ZogIofAlbania
+  rotate: false
+  xy: 420, 452
+  size: 182, 276
+  orig: 182, 276
+  offset: 0, 0
+  index: -1
+NationIcons/AlbanianEmpire
+  rotate: false
+  xy: 4, 736
+  size: 951, 1023
+  orig: 951, 1023
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/BM-13
+  rotate: false
+  xy: 963, 1727
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/T-34
+  rotate: false
+  xy: 212, 280
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tiger
+  rotate: false
+  xy: 420, 412
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/BM-13
+  rotate: false
+  xy: 4, 528
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/M1 Abrams
+  rotate: false
+  xy: 4, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Marine Trooper
+  rotate: false
+  xy: 212, 528
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Me 262
+  rotate: false
+  xy: 4, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/T-34
+  rotate: false
+  xy: 212, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Tiger
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
